@@ -1,5 +1,7 @@
 # Landing Page
 
-> Em desenvolvimento
+> Landing Page para divulgação de prestação de serviços front-end com **HTML, CSS e Js**.
 
-> Produção de Landing Page para divulgação de prestação de serviços front-end com **HTML, CSS e Js**.
+> Abas:
+
+> Link:
